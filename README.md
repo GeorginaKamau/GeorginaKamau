@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorginaKamau
-- 👀 I’m interested in Data Science & Analytic
+- 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning Statistics and Information Technology
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me georginakamau8@gmail.com
